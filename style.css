@@ -1,0 +1,26 @@
+.bluebar {
+    margin: 50px 0;
+    background-color: #c4eefc;
+    padding: 50px 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.whitebar {
+    margin: 50px 0px;
+    background-color: #fff;
+    padding-top: 30px;
+
+}
+.jumbotron {
+    background-color: #c4eefc;
+    background-image: url("https://png.pngtree.com/back_pic/00/01/80/73560a545c6ae6b.jpg");
+    background-size: 100% 100%;
+    color: #54fff3;
+    height: 400px;
+    text-align: left;
+}
+h1 {
+    padding-top: 10%;
+    color: black;
+}
+
